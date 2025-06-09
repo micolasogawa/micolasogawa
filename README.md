@@ -41,5 +41,4 @@ A lip-reading application built with deep learning to transcribe speech from vid
 I'm currently open to opportunities in **data analytics**, **machine learning**, or **strategy consulting** roles that leverage my hybrid background in business and tech.
 
 - 📍 Tokyo, Japan  
-- 📧 [micolas.ogawa@gmail.com](mailto:micolas.ogawa@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/micolasogawa/)  
