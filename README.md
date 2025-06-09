@@ -28,14 +28,6 @@ Before transitioning into data science, I spent over 10 years advising startups,
 
 ---
 
-## 🧠 Featured Bootcamp Projects
-
-### 📽️ Lip Reading with Deep Learning (Capstone Project)
-A lip-reading application built with deep learning to transcribe speech from video, leveraging the LipNet architecture.  
-**Stack**: PyTorch, Keras, OpenCV, Streamlit, Docker, GCP  
-
----
-
 ## 📫 Let's Connect
 
 I'm currently open to opportunities in **data analytics**, **machine learning**, or **strategy consulting** roles that leverage my hybrid background in business and tech.
