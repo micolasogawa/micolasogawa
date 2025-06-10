@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Micolas Hiroshi Ogawa
+# 👋 Hi, I'm Mic Ogawa
 
 Welcome to my GitHub! I'm a Tokyo-based **Data Analyst/Scientist and Business Consultant** with a background in engineering, entrepreneurship, and public sector advisory. 
 
