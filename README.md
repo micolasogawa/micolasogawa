@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Micolas Hiroshi Ogawa
 
-Welcome to my GitHub! I'm a Tokyo-based **Data Analyst and Business Consultant** with a background in engineering, entrepreneurship, and public sector advisory. I recently completed a full-time **Data Science & AI Bootcamp** at Le Wagon Tokyo, where I honed my skills in Python, machine learning, and end-to-end data product development.
+Welcome to my GitHub! I'm a Tokyo-based **Data Analyst/Scientist and Business Consultant** with a background in engineering, entrepreneurship, and public sector advisory. 
 
 ---
 
