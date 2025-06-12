@@ -19,7 +19,7 @@ This repository showcases the projects and tools I developed during selected per
 
 ## 💼 Background & Expertise
 
-Before transitioning into data science, I spent over 10 years advising startups, nonprofits, and government programs across Japan and the U.S. My core strengths include:
+Before transitioning into data science, I spent over 10 years advising startups, small/medium size businesses, and government programs across Japan and the U.S. My core strengths include:
 
 - 📊 **Business Planning & Financial Modeling**: Built 10+ feasibility studies and financial projections  
 - 🧠 **Strategic Consulting**: Helped clients secure over $6 million in funding and contracts  
